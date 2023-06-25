@@ -1,0 +1,8 @@
+{
+  "name": "leetcode-assessment-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/justokim/leetcode-assessment-js.git",
+  "author": "justin kim <justinkim707@gmail.com>",
+  "license": "MIT"
+}

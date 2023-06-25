@@ -1,0 +1,13 @@
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  border-color: black;
+  color: black;
+  padding: 4px;
+}
