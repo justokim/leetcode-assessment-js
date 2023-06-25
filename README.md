@@ -1,4 +1,4 @@
-# leetcode-assessment-js(React)
+# leetcode-assessment-js(JS)
 
 Using Jest & React Testing Library to implement unit tests.
 
